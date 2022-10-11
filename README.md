@@ -1,2 +1,2 @@
-# SG.github.io
-this is test
+# SamaGram News App
+
